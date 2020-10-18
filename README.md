@@ -35,3 +35,6 @@ Replacing the ninth-grade scores at Thomas decreased the overall passing rate of
 
 The overall passing rate of charter schools decreased by a negligible amount- less than 1/10th of a percent.
 
+## Summary
+
+Replacing the scores of ninth-grader at Thomas High School decreased the overall passing rate based on scores by school spending, size, type, and grade level as noted above. However, these changes were very minimal, which would imply that there is little evidence to support the claim of academic dishonesty at Thomas High School. If there was, we would expect to see a drastic change in the average scores at Thomas High once the scores of 9th graders were removed. Their scores were not skewing the data one way or another.
