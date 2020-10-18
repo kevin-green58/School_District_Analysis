@@ -19,4 +19,19 @@ There was a negligible differences in the scores from Thomas High School's summa
 
 Thomas High School was the second highest performing school before and after replacing the scores. Removing them did not affect the school's performance relative to other schools.
 
+- How does replacing the ninth-grade scores affect math and reading scores by grade?
+
+Repalcing the ninth-grade scores has a negligile affect on math and reading scores of ninth graders.
+
+-How does replacing the ninth-grade scores affect scores by school spending?
+
+Replacing the ninth-grade scores had a very minimal affect on scores of schools in the $630-$644 spending range. The overall passing rate dropped by approximately 1/10th of a percent.
+
+- How does replacing the ninth-grade scores affect scores by school size?
+
+Replacing the ninth-grade scores at Thomas decreased the overall passing rate of medium sized schools by less than 1/10th of a percent. 
+
+- How does replacing the ninth-grade scores affect scores by school type? 
+
+The overall passing rate of charter schools decreased by a negligible amount- less than 1/10th of a percent.
 
